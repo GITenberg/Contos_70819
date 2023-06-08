@@ -1,0 +1,43 @@
+_repo: Contos_70819
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Almeida, Fialho de
+    aliases:
+    - Almeida, José Valentim Fialho de
+    - Fialho de Almeida, José Valentim
+    - D'Almeida, Fialho
+    - Fialho d'Almeida
+    birthdate: 1857
+    deathdate: 1911
+    gutenberg_agent_id: '25452'
+    url: http://www.gutenberg.org/2009/agents/25452
+    wikipedia:
+    - https://pt.wikipedia.org/wiki/Fialho_de_Almeida
+    - https://en.wikipedia.org/wiki/Fialho_de_Almeida
+description: ''
+gutenberg_issued: '2023-05-20'
+identifiers:
+  gutenberg: '70819'
+language: pt
+pgterms:marc905: 20080510185623fialhodeal
+pgterms:marc906: '1881'
+pgterms:marc907: pt
+production_note: Rita Farinha and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from scanned images of public domain material from the Google
+  Books project.)
+publication_note: '  $aPortugal :$bErnesto Chardron, editor, $c1881.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Portuguese fiction -- 19th century'
+- !lcsh 'Short stories, Portuguese'
+- !lcc 'PQ'
+- GITenberg
+tableOfContents: A Camillo Castello Branco -- A Ruiva -- Sempre amigos -- O tio da
+  America -- A idéa da comadre Monica -- Historia de dois patifes -- A desforra de
+  Baccarat -- Quatro épocas -- O funambulo de marmore -- O milagre do convento --
+  Dois primos -- A expulsão dos jesuitas -- O ninho d'aguia -- A dôr.
+title: Contos
+url: http://www.gutenberg.org/ebooks/70819
