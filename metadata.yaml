@@ -1,5 +1,8 @@
 _repo: Contos_70819
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70819-h/images/cover.jpg
 creator:
   author:
     agent_name: Almeida, Fialho de
@@ -16,6 +19,8 @@ creator:
     - https://pt.wikipedia.org/wiki/Fialho_de_Almeida
     - https://en.wikipedia.org/wiki/Fialho_de_Almeida
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70819#Contos
 gutenberg_issued: '2023-05-20'
 identifiers:
   gutenberg: '70819'
